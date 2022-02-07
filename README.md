@@ -1,1 +1,6 @@
-# capd_test
+## Build Example:
+    mkdir build
+    cd build
+    cmake ..
+    make
+    ./example
